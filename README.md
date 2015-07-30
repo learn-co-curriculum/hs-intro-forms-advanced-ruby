@@ -1,8 +1,4 @@
----
-tags: ruby, kids, intro, forms
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Create an HTML form
